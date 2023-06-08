@@ -13,12 +13,12 @@ To get started with this code, follow these steps:
 
 1. Clone this repository:
 
-```git clone https://github.com/LucasDedieu/top-k-gan-training.git```
+```git clone https://github.com/LucasDedieu/Topk-Training.git```
 
 2. Install the required dependencies. We recommend using a virtual environment:
 
 ```
-cd top-k-gan-training
+cd Topk-Training
 python -m venv env
 source env/bin/activate (Unix) or env\Scripts\activate (Windows)
 pip install -r requirements.txt
