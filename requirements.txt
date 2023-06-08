@@ -1,0 +1,8 @@
+torch
+torchvision
+matplotlib
+numpy
+scikit-image
+argparse
+torchvision
+pytorch-gan-metrics
