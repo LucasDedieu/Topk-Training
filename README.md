@@ -13,7 +13,7 @@ To get started with this code, follow these steps:
 
 1. Clone this repository:
 
-git clone https://github.com/LucasDedieu/top-k-gan-training.git
+'git clone https://github.com/LucasDedieu/top-k-gan-training.git'
 
 2. Install the required dependencies. We recommend using a virtual environment:
 
