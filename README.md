@@ -13,18 +13,20 @@ To get started with this code, follow these steps:
 
 1. Clone this repository:
 
-'git clone https://github.com/LucasDedieu/top-k-gan-training.git'
+```git clone https://github.com/LucasDedieu/top-k-gan-training.git```
 
 2. Install the required dependencies. We recommend using a virtual environment:
 
+```
 cd top-k-gan-training
 python -m venv env
 source env/bin/activate (Unix) or env\Scripts\activate (Windows)
 pip install -r requirements.txt
+```
 
 3. Launch the Jupyter Notebook:
 
-4. Open the `Top-k-GAN-Training.ipynb` notebook and execute the code cells to observe the reimplementation and experiment with different settings.
+4. Open the `TopkTraining.ipynb` notebook and execute the code cells to observe the reimplementation and experiment with different settings.
 
 ## Results
 
