@@ -18,9 +18,6 @@ To get started with this code, follow these steps:
 2. Install the required dependencies. We recommend using a virtual environment:
 
 ```
-cd Topk-Training
-python -m venv env
-source env/bin/activate (Unix) or env\Scripts\activate (Windows)
 pip install -r requirements.txt
 ```
 
